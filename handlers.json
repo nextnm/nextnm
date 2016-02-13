@@ -1,0 +1,5 @@
+[
+    ["/", "MainHandler"],
+    ["/user/(.*)", "ProfileHandler", {"aa":"bb"}],
+    ["/device/(.*)", "ProfileHandler", {"dev1":"dev1_name2222"     }]
+]
